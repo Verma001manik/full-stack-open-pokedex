@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - master
-r
+
 
 jobs:
   hello_world_job:
